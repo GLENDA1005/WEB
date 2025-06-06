@@ -1,0 +1,30 @@
+.uno{
+    padding: 200px;
+    background-image: linear-gradient(to left, yellow, red ); 
+
+}
+
+.dos{
+    padding: 200px;
+    background:linear-gradient(30deg, yellow, rgb(9, 185, 48));
+}
+
+.tres{
+    padding: 200;
+    background-image: linear-gradient(to left,green,purple);
+}
+
+.cuatro{
+    padding: 200px;
+    background: linear-gradient(to bottom, yellow, rgb(11, 112, 138));
+}
+
+.cinco{
+    padding: 200px;
+    background-image: radial-gradient(yellow,rgb(161, 49, 118));
+}
+
+.seis{
+    padding: 200px;
+    background-image: radial-gradient(at 20px 20px, red, blue, yellow)
+}
